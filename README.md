@@ -1,5 +1,5 @@
 # uge-34
-opgaverne fra uge 34 til review
+Opgaverne fra uge 34 til review
 
 Opgaverne er delt ind i mapper for hvilken dag opgaven høre til.
 
